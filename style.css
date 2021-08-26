@@ -116,3 +116,9 @@ body{
 #img_div {
 	background: rgba(76, 175, 80, 0.3);
 }
+#pizzaimg {
+	height: 400px;
+	width: 400px;
+	margin-left: 100px;
+	margin-top: 100px;
+}
